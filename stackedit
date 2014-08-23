@@ -1,1 +1,28 @@
 开源在线 MarkDown 编辑器 StackEdit
+
+StackEdit是一个开放源码免费使用的 MarkDown 编辑器, 基于 PageDown，使用了 Stack Overflow 和其他 Stack Exchange 网站的 MarkDown 库。
+
+StackEdit 可以：
+
+管理多个 MarkDown 文档在线或脱机
+通过模板导出 MarkDown 或 HTML 格式文件
+云同步 MarkDown 文档
+支持 Google Drive, Dropbox 和本地硬盘驱动器
+Post MarkDown 文档到 Blogger 、Blogspot、WordPress和Tumblr
+发布 MarkDown 文档在GitHub，GIST，Google Drive，Dropbox或任何SSH服务器
+分享一个及时渲染的 MarkDown 文档链接
+文档信息统计显示
+转换HTML到 MarkDown
+StackEdit支持：
+
+实时编辑、HTML预览并自动滚动定位到编辑处
+Markdown Extra 支持 Prettify/Highlight.js 的语法高亮
+LaTeX 数学表达式使用MathJax
+所见即所得的控制按钮
+可配置的布局
+支持多个主题
+A la carte extensions
+离线编辑
+Google Drive和Dropbox在线同步
+一键发布支持 Blogger，Dropbox，GIST，GitHub，Google Drive，SSH server，Tumblr，WordPress
+3 赞 
